@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 🔬 I'm a PhD student at EPFL working on signal processing and diffusion MRI techniques for microstructure imaging.
 
-🔗 You can connect with me:
-- [LinkedIn](https://www.linkedin.com/in/ekin-taskin-3b94921b5)
+🔗 You can connect with me:[LinkedIn](https://www.linkedin.com/in/ekin-taskin-3b94921b5)
 
 📫 Or reach me by email: ekin.taskin[at]epfl.ch
