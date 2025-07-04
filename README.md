@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **ekintaskin/ekintaskin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👋 Hi, I'm Ekin Taskin
+
+🔬 I'm a PhD student at EPFL working on signal processing and diffusion MRI techniques for microstructure imaging.
+
+🔗 You can connect with me:
+- [LinkedIn](linkedin.com/in/ekin-taskin-3b94921b5)
+
+📫 Or reach me by email: ekin.taskin[at]epfl.ch
